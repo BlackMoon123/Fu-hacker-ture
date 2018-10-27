@@ -1,3 +1,3 @@
 # Fu-hacker-ture
-Learning
+Learning\n
 now I know what the branch is!
